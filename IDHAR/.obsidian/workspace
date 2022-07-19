@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "8bfebda4082e88b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f216e8eec10878",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/Shell/运算符.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f74e74ce64c2409",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b8273722bed51de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aebe0ba03788e88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cbab4a25c0d8e48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec8b8d515fb5b17c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "144097ed580e0b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dce8d4614875c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5389e9d48fe965",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Shell/运算符.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38d767b82e3a5d04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Shell/运算符.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fb95b527ede5da7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21d0d8db9d158092",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Shell/运算符.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "87f216e8eec10878",
+  "lastOpenFiles": [
+    "Linux/Shell/函数.md",
+    "Linux/Shell/变量.md",
+    "Linux/Shell/流程控制.md",
+    "Linux/Shell/运算符.md",
+    "Linux/Shell/shell代码案例.md",
+    "Linux/Shell/子shell.md",
+    "Linux/Shell/Vim.md",
+    "Linux/Shell/命令.md",
+    "Linux/Shell/shell.md",
+    "Untitled.md"
+  ]
+}
